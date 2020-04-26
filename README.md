@@ -2,7 +2,7 @@
 
 ### Занятие № 1
 #### Теория
-`homework/03_Numpy.ipynb`
+`03_Numpy.ipynb`
 
 #### Практика
 `homework/03_Numpy_hw.ipynb`
@@ -11,7 +11,7 @@
 
 ### Занятие № 2
 #### Теория
-`homework/03_Numpy_Images.ipynb`
+`03_Numpy_Images.ipynb`
 
 #### Практика
 `homework/03_Numpy_Image_hw.ipynb`
