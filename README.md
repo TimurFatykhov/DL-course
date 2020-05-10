@@ -17,18 +17,19 @@
 [Видео-лекция]() об основах языка программирования Python
 
 [Курс по Python на stepik](https://stepik.org/course/67/promo)
+
 Тетрадка с материалом к лекции: `01_Python.ipynb`
 
 Практика: `homework/01_Python_hw.ipynb`
 
-[Ссылка]() на форму для ответов
+[Ссылка](https://forms.gle/UDjPWTEwpfCuX6dY9) на форму для ответов
 
 ### Вектор & Матрица
 [Видео-лекция]() о векторах, матрицах и операциях над ними
 
 Практика: `homework/01_Vector_Matrix_hw.ipynb`
 
-[Ссылка]() на форму для ответов
+[Ссылка](https://forms.gle/EnfVqErdoMgagbcf9) на форму для ответов
 
 <br>
 <br>
