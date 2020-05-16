@@ -40,12 +40,14 @@
 
 Практика: `homework/02_Numpy_hw.ipynb`
 
-[Ссылка]() на форму для ответов
+[Ссылка](https://forms.gle/MF1PWEFcS1CAmsVK9) на форму для ответов
 
 ### Numpy & Изображения
 Теория: `02_Numpy_Images.ipynb`
 
 Практика: `homework/02_Numpy_Image_hw.ipynb`
+
+[Ссылка](https://forms.gle/1g3ZkoLRPzNQrj3ZA) на форму для ответов
 
 <br>
 <br>
