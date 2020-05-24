@@ -66,14 +66,14 @@ pip install dlib
 
 Практика: `homework/03_Function_Limit_hw.ipynb`
 
-[Ссылка]() на форму для ответов
+[Ссылка](https://forms.gle/Z7JWi88e1tbDhhz7A) на форму для ответов
 
 ### Производная
 [Видео-лекция](https://www.youtube.com/watch?v=CkT6UZqn_nc) "Производная"
 
 Практика: `homework/03_Derivative_hw.ipynb`
 
-[Ссылка]() на форму для ответов
+[Ссылка](https://forms.gle/8io92dBQJWL7oc4r9) на форму для ответов
 
 <br>
 <br>
